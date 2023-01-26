@@ -1,0 +1,29 @@
+I. Introduction
+
+Brief overview of the script's purpose and functionality
+II. Requirements
+
+Player must have a specific item (rope) in their inventory
+Player must be seated in the driver seat of the second car to activate the pulling feature
+III. Rope Attachment
+
+Rope can be attached to any of the four points on the first car (front, back, left, right)
+Player must ask for permission before attaching the rope to another player's car
+Prompt message displayed to confirm permission to attach the rope
+IV. Pulling Feature
+
+First car is only able to pull the second car if the rope is attached
+Player must press the W button while seated in the driver seat of the second car to activate the pulling feature
+Rope has a maximum length of 10m
+V. Error Handling and Optimization
+
+Properly handling errors and exceptions to ensure the script runs smoothly
+Optimizing the script for performance to avoid lag or crashes
+VI. Commenting and Compliance
+
+Properly commenting the script for easy readability and understanding
+Following FiveM's rules and regulations for scripting
+Utilizing resources provided by FiveM to interact with the game and FiveM RP addon/framework
+VII. Conclusion
+
+Summarizing the script's purpose and functionality, and any additional details or considerations.
